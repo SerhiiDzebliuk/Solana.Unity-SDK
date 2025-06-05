@@ -1,3 +1,6 @@
+CHANGES:
+1) Transfered UniTask dependency to package.json
+
 <div align="center">
 
   <a href="https://solana.unity-sdk.gg/"><img height="170x" src="https://solana.unity-sdk.gg/logo.png" /></a>
